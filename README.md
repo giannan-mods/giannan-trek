@@ -18,7 +18,7 @@ It might work in other modes (with some hiccups) if you modify the contents of t
 
 2. Bad Dreams mode: Adds a new option to the Randomizers dialog at the start of the game, called Bad Dreams Mode. Going through some bad ends might have long lasting consequences. There are several bad dreams. To avoid spoilers, they're listed inside the SPOILERS.txt file.
  
-3. Toggle options: Adds a new option to the Randomizers dialog at the start of the game, with configurable changes.
+3. Toggle options: Adds a new option to the Randomizers dialog at the start of the game, with configurable changes. These generally make the game more difficult.
  
 - Limit fast travel to only work between places with Fast Travel Points.
 - Make items that cure status effects hard to come by. Disables spells that cure them.
