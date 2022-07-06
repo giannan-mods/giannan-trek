@@ -1,12 +1,14 @@
+# Giannan Trek
+
 This mod is based on hard mode, and will only work (as is) when selecting that option in the launcher. 
 It might work in other modes (with some hiccups) if you modify the contents of the www folder.
 
-Install Instructions
+## Install Instructions
 
 1. Drag and drop the www folder into the Game folder (the folder is called like that, and should be located within your game's folder, where the launcher is).
 2. Merge and replace everything when asked.
 
-Features
+## Features
 
 1. Scenario Mode: Adds a new option to the Randomizers dialog at the start of the game, called Scenario Mode. It includes different ways of starting a new game, focused on role-playing. As of now there are three options.
    
