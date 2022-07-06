@@ -16,7 +16,7 @@ It might work in other modes (with some hiccups) if you modify the contents of t
 - The party has been made into puppets by Samona (skips the Samona fight)
 - The party is in debt and has to pay it off at Rokkas slut bar (this one is a bit more elaborate).
 
-2. Bad Dreams mode: Adds a new option to the Randomizers dialog at the start of the game, called Bad Dreams Mode. Going through some bad ends might have long lasting consequences. As of now there are three bad dreams.
+2. Bad Dreams mode: Adds a new option to the Randomizers dialog at the start of the game, called Bad Dreams Mode. Going through some bad ends might have long lasting consequences. There are several bad dreams. More might be added.
 
 - Lost Wizard bad end, Sable now gets HUGE(LY) empowered when targeted by the Empower spell.
 - The Masters bad end, Lilina can't stand wearing a denial belt, and will try to remove it ASAP.
