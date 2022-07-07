@@ -13,7 +13,7 @@ It might work in other modes (with some hiccups) if you modify the contents of t
 1. Increased difficulty: Enemies are now much tougher, while still being somewhat manageable. The objective is to make it so avoiding conflict is often times the best option available to you, making the game world feel more dangerous. To revert these changes, in case you don't want them, do as follows.
 
 - Delete the file named Enemies.json in www/data_Hard
-- Rename the file EnemiesOG.json to Enemies.JSON
+- Rename the file EnemiesOG.json to Enemies.json
 
 2. Scenario Mode: Adds a new option to the Randomizers dialog at the start of the game, called Scenario Mode. It includes different ways of starting a new game, focused on role-playing. As of now there are three options.
    
