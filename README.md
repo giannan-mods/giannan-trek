@@ -5,7 +5,7 @@ It might work in other modes (with some hiccups) if you modify the contents of t
 
 ## Install Instructions
 
-1. Drag and drop the www folder into the Game folder (the folder is called like that, and should be where the launcher is).
+1. Drag and drop the www folder into the Game folder (the folder is called like that, and should be located within your game's folder, where the launcher is).
 2. Merge and replace everything when asked.
 
 ## Features
