@@ -18,7 +18,7 @@ It might work in other modes (with some hiccups) if you modify the contents of t
  
 2. Party takeover: Some party members are now able to wrestle control of the party from Lilina. The party member in control decides if and when to surrender, and determines where the party will end up after a Bad End.
 
-3. Toggle options: Adds a new option to the Randomizers dialog at the start of the game, with configurable changes. These will generally also make the game more difficult.
+3. Toggle options: Adds a new option to the Randomizers dialog at the start of the game, with configurable changes. These will generally make the game more difficult.
  
 - Limit fast travel to only work between places with Fast Travel Points.
 - Make items that cure status effects hard to come by. Disables spells that cure them.
