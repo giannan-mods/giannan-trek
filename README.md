@@ -10,7 +10,11 @@ It might work in other modes (with some hiccups) if you modify the contents of t
 
 ## Features
 
-1. Increased difficulty: Enemies are now much tougher, while still being somewhat manageable. The objective is to make it so avoiding conflict is often times the best option available to you, to create a more tense gameplay.
+1. Increased difficulty: Enemies are now much tougher, while still being somewhat manageable. The objective is to make it so avoiding conflict is often times the best option available to you, to create a more tense gameplay. 
+
+To revert these changes, in case you don't want them:
+- Delete the file named Enemies.json in www/data_Hard
+- Rename the file EnemiesOG.json to Enemies.JSON
 
 1. Scenario Mode: Adds a new option to the Randomizers dialog at the start of the game, called Scenario Mode. It includes different ways of starting a new game, focused on role-playing. As of now there are three options.
    
