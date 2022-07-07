@@ -10,7 +10,7 @@ It might work in other modes (with some hiccups) if you modify the contents of t
 
 ## Features
 
-1. Increased difficulty: Enemies are now much tougher, while still being somewhat manageable. The objective is to make it so avoiding conflict is often times the best option available to you, to create a more tense gameplay. To revert these changes, in case you don't want them, do as follows.
+1. Increased difficulty: Enemies are now much tougher, while still being somewhat manageable. The objective is to make it so avoiding conflict is often times the best option available to you, making the game world feel more dangerous. To revert these changes, in case you don't want them, do as follows.
 
 - Delete the file named Enemies.json in www/data_Hard
 - Rename the file EnemiesOG.json to Enemies.JSON
