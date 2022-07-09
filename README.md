@@ -10,7 +10,7 @@ It might work in other modes (with some hiccups) if you modify the contents of t
 
 ## Features
 
-1. Tougher enemies: All of their stats have been increased by 50%. This is a work in progress, and might change in the future for better balance.
+1. Tougher enemies: All enemy stats have been increased by 50%. This is a work in progress, and might change in the future for better balance. For now, I believe it makes for a much more challenging gameplay, while not being downright impossible.
 
 2. Scenario Mode: Adds a new option to the Randomizers dialog at the start of the game, called Scenario Mode. It includes different ways of starting a new game, focused on role-playing. As of now there are three options.
    
