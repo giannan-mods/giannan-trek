@@ -35,3 +35,5 @@ It might work in other modes (with some hiccups) if you modify the contents of t
 7. Randomized maps: Some randomness has been added to a few maps, so that you can't just avoid all dangers.
 
 - The traps in the Forsaken Tower are now somewhat randomized. There's a pattern, but I won't tell.
+
+8. Skill adjustments: Moved skills around to allow for interesting combinations, such as a succubus Yterre that can still manage her maids.
