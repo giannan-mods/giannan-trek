@@ -1,5 +1,3 @@
-# Giannan Trek
-
 ## Install Instructions
 
 1. Drag and drop the www folder into the Game folder.
@@ -7,7 +5,7 @@
 
 ## Features
 
-1. Tougher enemies (Hard): All enemy stats have been increased by 50%. This is a work in progress, and might change in the future. For now, I believe it makes for a much more challenging gameplay, while not being impossible.
+1. Tougher enemies (Hard): All enemy stats have been increased by 50%. This is a work in progress, and might change soon. For now, I believe it makes for a much more challenging gameplay, while not being impossible.
 
 2. Scenario Mode: Adds a new option to the Randomizers dialog at the start of the game, called Scenario Mode. It includes different ways of starting a new game, focused on role-playing. As of now there are three options.
    
