@@ -16,7 +16,7 @@ It might work in other modes (with some hiccups) if you modify the contents of t
    
 - The party has been made into maids by Yterre (skips the Yterre storyline).
 - The party has been made into puppets by Samona (skips the Samona fight).
-- The party is in debt and has to pay it off at Rokkas slut bar (this one is a bit more elaborate).
+- The party is in debt and has to pay it off at Rokkas Slut Bar (this one is a bit more elaborate).
 
 3. Real Curses Mode: Adds a new option to the Randomizers dialog at the start of the game, called Real Curses Mode. It makes curses inflicted by enemy attacks, or other means, have long-lasting consequences on their targets. Some of these curses have levels. The higher the level, the more powerful and damaging the curse.
 
