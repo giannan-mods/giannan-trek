@@ -25,7 +25,7 @@ It might work in other modes (with some hiccups) if you modify the contents of t
 - Limit fast travel to only work between places with Fast Travel Points.
 - Make items that cure status effects hard to come by, and disable spells that cure them. There's a safety measure of sorts, in the form of a creepy clown that resides in one corner of the throne room in Gianna Castle.
 
-5. Party takeover: Some party members are now able to wrestle control of the party from Lilina. The one in control decides if and when to surrender, and determines where the party will end up after a Bad End, among other things.
+5. Party takeover: Some party members are now able to wrestle control of the party from Lilina. The one in control decides if and when to surrender, and sets where the party will end up after a Bad End, among other things.
 
 6. New rarities: Items have been added to the Rarities Shop in Gianna Castle.
  
