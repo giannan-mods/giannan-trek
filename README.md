@@ -1,8 +1,5 @@
 # Giannan Trek
 
-This mod is based on hard mode, and will only work (as is) when selecting that option in the launcher. 
-It might work in other modes (with some hiccups) if you modify the contents of the www folder.
-
 ## Install Instructions
 
 1. Drag and drop the www folder into the Game folder.
