@@ -32,5 +32,6 @@
 8. Randomized maps: Some randomness has been added to a few maps, so that you can't just avoid all dangers.
 
 - The traps in the Forsaken Tower are now somewhat randomized. There's a pattern, but I won't tell.
+- The traps in Alisha's House are now completely randomized. Not all of them are dangerous... but most are.
 
 9. Skill adjustments: Allow for interesting combinations, such as a succubus Yterre that can still manage her maids.
