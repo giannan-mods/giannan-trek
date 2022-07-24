@@ -41,6 +41,6 @@
 
 9. Skill adjustments: Allow for interesting combinations, such as a succubus Yterre that can still manage her maids.
 
-10. More max level skills: Some of the classes that come from being afflicted with a state now have a skill unlocked when they reach their maximum level. The new skills are usualy passives. This is meant to encourage the player to not always cure any and all status effect straight away.
+10. More max level skills: Some of the classes that come from being afflicted with a state now have a skill unlocked when they reach their maximum level. The new skills are usualy passives. This is meant to encourage the player to not always cure any and all status effects straight away.
 
 11. Dronification: Drones in the player's party have an ability that can turn enemies into Drones, making them allies.
