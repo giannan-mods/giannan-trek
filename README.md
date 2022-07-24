@@ -16,6 +16,7 @@
 - The party has been made into maids by Yterre (skips the Yterre storyline).
 - The party has been made into puppets by Samona (skips the Samona fight).
 - The party is in debt and has to pay it off at Rokkas Slut Bar (this one is a bit more elaborate).
+- The party has been made into cattle by Annie (skips the Gunslinger fight).
 
 3. Real Curses Mode: Adds a new option to the Randomizers dialog at the start of the game, called Real Curses Mode. It makes curses inflicted by enemy attacks, or other means, have long-lasting consequences on their targets. Some of these curses have levels. The higher the level, the more powerful and damaging the curse. These semi-permanent passive skills can be removed using Holy Water, as is usual with curses.
 
@@ -39,3 +40,7 @@
 8. New puppet core: The Service Core, which grants access to Maid skills.
 
 9. Skill adjustments: Allow for interesting combinations, such as a succubus Yterre that can still manage her maids.
+
+10. More max level skills: Some of the classes that come from being afflicted with a state now have a skill unlocked when the reach their maximum level. This is meant to encourage the player to not always cure any and all status effect straight away.
+
+11. Dronification: Drones in the player's party have a new ability that can turn your enemies into Drones, making them an ally.
