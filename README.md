@@ -9,7 +9,6 @@
 
 - In Hard mode, you can no longer escape from ambushes. I believe that otherwise there's little point to them.
 - In Hard mode, you no longer receive increased damage, nor have a bigger change of being affected by states.
-- In Easy mode, you no longer receive twice the exp. This is a technical decision to facilitate development.
 
 2. Scenario Mode: Adds a new option to the Randomizers dialog at the start of the game, called Scenario Mode. It includes different ways of starting a new game, focused on role-playing. As of now there are three options.
    
