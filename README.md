@@ -41,3 +41,9 @@
 9. More max level skills: Some of the classes that come from being afflicted with a state now have a skill unlocked when they reach their maximum level. This is meant to encourage the player to not always cure any and all status effects straight away, and give them something more to work towards.
 
 10. Dronification: Drones in the player's party have an ability that can turn enemies into Drones, making them allies.
+
+## Credits
+
+Mod Author: 1d51
+New Scenes: Catalyst
+Yandere Wife Images: Dawn
