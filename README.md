@@ -48,4 +48,4 @@ Mod Author: 1d51
 
 New Scenes: Catalyst
 
-Yandere Wife Images: Dawn
+Yandere Bride Images: Dawn
