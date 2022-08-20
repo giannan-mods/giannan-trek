@@ -3,6 +3,7 @@
 1. Drag and drop the www folder into the Game folder.
 2. Merge and replace everything when asked.
 3. Launch the game on Normal mode.
+4. Start a new game.
 
 ## Features
 
@@ -47,6 +48,8 @@
 
 Mod Author: 1d51
 
-New Scenes: Catalyst
+Takeover Scenes: Catalyst
 
 Yandere Bride Images: Dawn
+
+Fuck Holster Images: H3106
