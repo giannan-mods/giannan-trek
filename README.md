@@ -7,7 +7,7 @@
 
 ## Features
 
-1. Scenario Mode: Adds a new option to the Randomizers dialog at the start of the game, called Scenario Mode. It includes different ways of starting a new game, focused on role-playing. As of now there are three options.
+1. Scenario Mode: Adds a new option to the Randomizers dialog at the start of the game, called Scenario Mode. It includes different ways of starting a new game, focused on role-playing. As of now there are four options.
    
 - The party has been made into maids by Yterre (skips the Yterre storyline).
 - The party has been made into puppets by Samona (skips the Samona fight).
