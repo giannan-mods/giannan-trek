@@ -45,7 +45,9 @@
 
 10. More max level skills: Some of the classes that come from being afflicted with a state now have a skill unlocked when they reach their maximum level. This is meant to encourage the player to not always cure any and all status effects straight away, and give them something more to work towards.
 
-11. Dronification: Drones in the player's party have an ability that can turn enemies into Drones, making them allies.
+11. Derived skills: Learning a particular set of skills will result in learning a new one. It might be an affliction though...
+
+12. Dronification: Drones in the player's party have an ability that can turn enemies into Drones, making them allies.
 
 ## Credits
 
