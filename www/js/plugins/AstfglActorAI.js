@@ -102,6 +102,7 @@ Game_Party.prototype.aiElementRateKnown = function(target, elementId) {
  
 Game_Party.prototype.aiRegisterElementRate = function(target, elementId) {
     if (!Yanfly.Param.CoreAIElementTest) return;
+    if (this._aiKnownElementRates == undefined) return;
     var index = target.index();
     if (this._aiKnownElementRates[index] === undefined) {
       this._aiKnownElementRates[index] = [];
