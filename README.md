@@ -31,7 +31,7 @@
 - Increase the difficulty of ambushes by not being able to escape.
 - Increase all enemy stats by 50% (might change in the future).
 - Grant access to the Easy Mode cheat room.
-- Make chest have a chance to be cursed.
+- Make chests have a chance to be cursed.
 
 6. Party takeover: Some party members are now able to wrestle control of the party from Lilina. The one in control decides if and when to surrender, and sets where the party will end up after a Bad End, among other things.
 
