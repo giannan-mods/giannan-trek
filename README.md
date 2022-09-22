@@ -23,9 +23,9 @@
 - The traps in the Forsaken Tower are somewhat randomized. There's a pattern, but I won't tell.
 - The traps in Alisha's House are completely randomized. Not all of them are dangerous... but most are.
 
-5. Enemy Takeover Mode: Adds a new option to the Randomizers dialog at the start of the game, called Enemy Takeover Mode. It gives some enemies the ability to take over your party. You will then have to struggle to regain control.
+5. Enemy Takeover Mode: Adds a new option to the Randomizers dialog at the start of the game, called Enemy Takeover Mode. It gives some enemies the ability to take over your party. You will have to struggle to regain control.
 
-6. Cursed Equipment Mode: Adds a new option to the Randomizers dialog at the start of the game, called Cursed Equipment Mode. It makes some pieces of equipment have a chance to be cursed. You won't be able to tell if they are until you equip them.
+6. Cursed Equipment Mode: Adds a new option to the Randomizers dialog at the start of the game, called Cursed Equipment Mode. It makes some pieces of equipment have a chance to be cursed. You won't be able to tell if they are until you equip them. Once you do, they'll reveal their effects.
 
 7. Toggle options: Adds a new option to the Randomizers dialog at the start of the game, with configurable changes. These will generally make the game more difficult.
  
