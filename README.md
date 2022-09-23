@@ -5,6 +5,12 @@
 3. Launch the game on Normal mode.
 4. Start a new game.
 
+## Contributing
+
+You can vote on how the mod will continue to develop, and make suggestions [here](https://simplevote.tk/#/poll/DR6x).
+
+If you'd like to contribute code, we're open to pull requests! 
+
 ## Features
 
 1. Scenario Mode: Adds a new option to the Randomizers dialog at the start of the game, called Scenario Mode. It includes different ways of starting a new game, focused on role-playing. As of now there are four options.
