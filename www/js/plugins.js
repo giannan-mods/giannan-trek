@@ -89,6 +89,5 @@ var $plugins =
 {"name":"Cae_SelectItemFilter","status":true,"description":"v1.1 - Use notetags to filter items displayed in Select Item.","parameters":{}},
 {"name":"HIME_LargeChoices","status":true,"description":"v1.2 - Combines multiple show choice commands into a single,\nlarge list.","parameters":{}},
 {"name":"WAY_Core","status":true,"description":"v2.0.0 WAY Core Utility Plugin. Place it above all WAY plugins. <WAY_Core>","parameters":{}},
-{"name":"WAY_YEP_SkillCore","status":true,"description":"v1.2.0 Addon to Yanfly's Skill Core Plugin. <WAY_YEP_SkillCore>","parameters":{}},
-{"name":"AstfglActorAI","status":true,"description":"Actor with the autobattle flag will use a custom AI","parameters":{"InGameAI":"false","ElemRemove":"[]","SkillRemove":"[]","StateRemove":"[]"}}
+{"name":"WAY_YEP_SkillCore","status":true,"description":"v1.2.0 Addon to Yanfly's Skill Core Plugin. <WAY_YEP_SkillCore>","parameters":{}}
 ];
