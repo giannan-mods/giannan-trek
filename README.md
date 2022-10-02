@@ -62,10 +62,14 @@ If you'd like to contribute code, we're open to pull requests!
 
 ## Credits
 
-Mod Author: 1d51
+Mod Author: 1d51#0323
 
-Takeover Scenes: Catalyst
+Takeover Scenes: Catalyst#1036
 
-Yandere Bride Images: Dawn
+Yandere Bride Images: Dawn#5610
 
-Fuck Holster Images: H3106
+Fuck Holster Images: H3106#4641
+
+Collar Slave Images: Borpie#5730
+
+Slave Trader Sprite: Philia#6144
