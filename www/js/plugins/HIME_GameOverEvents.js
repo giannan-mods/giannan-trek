@@ -82,17 +82,16 @@ TH.GameOverEvents = TH.GameOverEvents || {};
   Scene_Gameover.prototype.create = function() {
     Scene_Base.prototype.create.call(this);
     $gameMap._interpreter.clear();
-    if (!$gameSwitches.value(4962)) {
+    if (!$gameSwitches.value(4959))
     	$gamePlayer.reserveTransfer($.MapID, 0, 0);
-    }
   };
   
   /* Overwrite */
   Scene_Gameover.prototype.start = function() {
     Scene_Base.prototype.start.call(this);
-    if (!$gameSwitches.value(4962)) {
-    	SceneManager.goto(Scene_GameoverMap);
-    }
+    if ($gameSwitches.value(4959)) 
+    	$gameSwitches.setValue(4959,false);
+    else SceneManager.goto(Scene_GameoverMap);
   };
   
   function Scene_GameoverMap() {
