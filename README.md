@@ -75,3 +75,5 @@ Collar Slave Images: Borpie#5730
 Collar Slave Sprites: Philia#6144
 
 Slave Trader Sprites: Philia#6144
+
+Submissive Images: Ex!stenc3#6896
