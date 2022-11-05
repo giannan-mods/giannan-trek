@@ -72,9 +72,9 @@ Fuck Holster Images: H3106#4641
 
 Collar Slave Images: Borpie#5730
 
-Collar Slave Sprites: Philia#6144
-
 Slave Trader Sprites: Philia#6144
+
+Blue Slave Sprites: Philia#6144
 
 Pink Slave Sprites: Philia#6144
 
