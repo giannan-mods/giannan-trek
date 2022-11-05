@@ -76,4 +76,6 @@ Collar Slave Sprites: Philia#6144
 
 Slave Trader Sprites: Philia#6144
 
+Pink Slave Sprites: Philia#6144
+
 Submissive Images: Ex!stenc3#6896
