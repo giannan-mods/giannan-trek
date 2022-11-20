@@ -64,6 +64,8 @@ If you'd like to contribute code, we're open to pull requests!
 
 ## Credits
 
+Game Creator: [Vhiel](https://twitter.com/shvhiel)
+
 Mod Author: 1d51#0323
 
 Takeover Scenes: Catalyst#1036
@@ -74,12 +76,8 @@ Fuck Holster Images: H3106#4641
 
 Collar Slave Images: Borpie#5730
 
-Slave Trader Sprites: Philia#6144
-
-Hypnotist Sprites: Philia#6144
-
-Blue Slave Sprites: Philia#6144
-
-Pink Slave Sprites: Philia#6144
-
 Submissive Images: Ex!stenc3#6896
+
+Character Sprites: Philia#6144
+
+Hypnotist Sprites: [Karmeni](https://www.deviantart.com/karmenis/art/Girls-casual-clothes-1-Sprite-MV-742440107)
