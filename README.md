@@ -76,6 +76,8 @@ Collar Slave Images: Borpie#5730
 
 Slave Trader Sprites: Philia#6144
 
+Hypnotist Sprites: Philia#6144
+
 Blue Slave Sprites: Philia#6144
 
 Pink Slave Sprites: Philia#6144
