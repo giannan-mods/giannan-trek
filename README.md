@@ -1,9 +1,10 @@
 ## Install Instructions
 
-1. Drag and drop the www folder into the Game folder.
-2. Merge and replace everything when asked.
-3. Launch the game on Normal mode.
-4. Start a new game.
+1. Download and install the [Giannan Loader](https://github.com/1d51/giannan-loader) mod.
+2. Download the mod from this [link](https://github.com/1d51/giannan-trek/archive/refs/heads/main.zip) for the latest changes.
+3. Drag and drop the www folder into the game folder.
+4. Launch the game and activate the mod.
+5. Start a new game on Normal mode.
 
 ## Contributing
 
