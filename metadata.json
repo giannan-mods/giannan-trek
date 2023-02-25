@@ -1,0 +1,10 @@
+{
+	"name": "Giannan Trek",
+	"version": "0.2.4",
+	"dependencies": [],
+	"incompatible": [
+		{
+			"name": "Mt.Pleasant Recruitment"
+		}
+	]
+}
