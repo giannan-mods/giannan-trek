@@ -1,5 +1,6 @@
 {
 	"name": "Giannan Trek",
+	"reduced": true,
 	"version": "0.2.4",
 	"dependencies": [],
 	"incompatible": [
