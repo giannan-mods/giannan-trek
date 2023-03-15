@@ -1,11 +1,12 @@
 {
 	"name": "Giannan Trek",
-	"reduced": true,
 	"version": "0.2.4",
+	"reduced": true,
 	"dependencies": [],
 	"incompatible": [
 		{
 			"name": "Mt.Pleasant Recruitment"
 		}
-	]
+	],
+	"overrides": []
 }
