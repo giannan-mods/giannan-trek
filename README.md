@@ -1,18 +1,5 @@
-## Install Instructions
-
-1. Download and install the [Giannan Loader](https://github.com/1d51/giannan-loader) mod.
-2. Download the mod from this [link](https://github.com/1d51/giannan-trek/archive/refs/heads/main.zip) for the latest changes.
-3. Unzip and drop the folder into the `mods` folder.
-4. Launch the game and activate the mod.
-5. Start a new game on Normal mode.
-
-## Contributing
-
-You can vote on how the mod will continue to develop, and make suggestions [here](https://simplevote.tk/#/poll/DR6x).
-
-You can read about and comment on my plans for a future mod over [here](https://docs.google.com/document/d/1nLdg_s_IKiHhImR4zKdXGzLuSVrHIA7rbFQcbEkzhi8/).
-
-If you'd like to contribute code, we're open to pull requests! 
+# Giannan Trek
+A mod that makes several additions to the game. Including new game starting scenarios, party leadership takeover, a few toggles for a more challenging experience, some new items, and more!
 
 ## Features
 
@@ -62,6 +49,22 @@ If you'd like to contribute code, we're open to pull requests!
 13. Derived skills: Learning a particular set of skills will result in learning a new one. It might be an affliction though...
 
 14. Dronification: Drones in the player's party have an ability that can turn enemies into Drones, making them allies.
+
+## Install Instructions
+
+1. Download and install the [Giannan Loader](https://github.com/1d51/giannan-loader) mod.
+2. Download the mod from this [link](https://github.com/1d51/giannan-trek/archive/refs/heads/main.zip) for the latest changes.
+3. Unzip and drop the folder into the `mods` folder.
+4. Launch the game and activate the mod.
+5. Start a new game on Normal mode.
+
+## Contributing
+
+You can vote on how the mod will continue to develop, and make suggestions [here](https://simplevote.tk/#/poll/DR6x).
+
+You can read about and comment on my plans for a future mod over [here](https://docs.google.com/document/d/1nLdg_s_IKiHhImR4zKdXGzLuSVrHIA7rbFQcbEkzhi8/).
+
+If you'd like to contribute code, we're open to pull requests! 
 
 ## Credits
 
