@@ -5,6 +5,9 @@
 	"incompatible": [
 		{
 			"name": "Mt.Pleasant Recruitment"
+		},
+		{
+			"name": "Collarslave_Mod"
 		}
 	],
 	"overrides": {}
