@@ -60,10 +60,6 @@ A mod that makes several additions to the game. Including new game starting scen
 
 ## Contributing
 
-~You can vote on how the mod will continue to develop, and make suggestions [here](https://simplevote.tk/#/poll/DR6x).~
-
-You can read about and comment on my plans for a future mod over [here](https://docs.google.com/document/d/1nLdg_s_IKiHhImR4zKdXGzLuSVrHIA7rbFQcbEkzhi8/).
-
 If you'd like to contribute code, we're open to pull requests! 
 
 ## Credits
